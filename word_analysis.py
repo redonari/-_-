@@ -2,7 +2,7 @@ import re
 from collections import Counter
 from typing import Optional
 
-
+ #c4fcbee0ebc6cb56b1dca96ce70fadbb
 def split_words(text: str) -> list[str]:
     return re.findall(r"[a-zA-Zа-яА-ЯёЁ0-9]+", text.lower())
 
