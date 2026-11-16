@@ -1,3 +1,5 @@
+#лаб 3 и 5 184ae3c30bb74bb49c067c415202b8e24e9ce8831cf7d5ac0d8de7c8656c0176
+
 from dataclasses import dataclass
 from enum import Enum
 from typing import Callable, Generic, TypeVar, Union
